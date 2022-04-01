@@ -1,4 +1,4 @@
-TO jest plik tekstowy
+wwwTO jest plik tekstowy
 Git--fast-version-control
 Search entire site...
 About
